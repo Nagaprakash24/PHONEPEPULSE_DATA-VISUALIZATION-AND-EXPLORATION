@@ -1,0 +1,13 @@
+ os     
+ json
+ tkinter import OptionMenu    
+ pandas as pd
+ psycopg2
+ git
+ requests
+ plotly.express as px
+ numpy as np
+ streamlit as st
+ PIL import Image
+ streamlit_option_menu import option_menu
+ PIL
