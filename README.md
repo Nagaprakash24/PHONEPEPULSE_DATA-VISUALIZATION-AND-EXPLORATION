@@ -95,6 +95,6 @@ Contributions to this project are highly encouraged. If you come across any chal
 ## Contact Information
 
 - **Email:** Nagaprakash48@gmail.com
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/naga-prakash-j-280aba1b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 If you have any more questions or need further information, please don't hesitate to get in touch. We're here to help and answer any inquiries you may have.
